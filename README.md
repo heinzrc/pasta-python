@@ -1,5 +1,5 @@
 # pasta-python
-Project that uses a raspberry pi zero w 2 and a medical grade MLX90614 infrared sensor
+Project that uses a raspberry pi zero w 2 and a Gy-mlx90614-dci Long-distance infrared sensor
 
 I made this app to alert me when my pasta water is boiling. All so I can step away for a few minutes while the water comes to boil.
 
