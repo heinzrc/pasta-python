@@ -1,0 +1,12 @@
+body {
+    background: rgb(255, 255, 255);
+    color: rgb(20, 111, 230);
+    text-align: center;
+ }
+#new_text{
+    height: 500px;
+    font-size: 400px; 
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
